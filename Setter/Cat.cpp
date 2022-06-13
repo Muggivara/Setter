@@ -14,6 +14,5 @@ int main()
 	void Eating();
 	void Speak();
 	void Print();
-	void Condition();
-	
+	void Condition();	
 }
