@@ -15,5 +15,5 @@ int main()
 	void Speak();
 	void Print();
 	void Condition();
-	void FillCat();
+	
 }
